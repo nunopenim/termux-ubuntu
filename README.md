@@ -21,7 +21,7 @@ For the current LTS version:
 ```
 mkdir -p ~/ubuntu
 cd ~/ubuntu
-wget https://raw.githubusercontent.com/nunopenim/termux-ubuntu-scripts/master/lts_release.sh
+wget https://raw.githubusercontent.com/nunopenim/termux-ubuntu/master/lts_release.sh
 bash ubuntu.sh
 ```
 
@@ -30,7 +30,7 @@ For the latest release:
 ```
 mkdir -p ~/ubuntu
 cd ~/ubuntu
-wget https://raw.githubusercontent.com/nunopenim/termux-ubuntu-scripts/master/latest_release.sh
+wget https://raw.githubusercontent.com/nunopenim/termux-ubuntu/master/latest_release.sh
 bash ubuntu.sh
 ```
 
@@ -39,7 +39,7 @@ For any version available:
 ```
 mkdir -p ~/ubuntu
 cd ~/ubuntu
-wget https://raw.githubusercontent.com/nunopenim/termux-ubuntu-scripts/master/distros/<distro_name>.sh
+wget https://raw.githubusercontent.com/nunopenim/termux-ubuntu/master/distros/<distro_name>.sh
 bash ubuntu.sh
 ```
 
